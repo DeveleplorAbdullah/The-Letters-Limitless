@@ -1,0 +1,149 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    background: #B4C4AA;
+    margin-top: -10px;
+    margin-left: -2em;
+    width: 1622px;
+}
+#logo{
+    margin-left: 50px;
+}
+#letter{
+    color: #2766B7;
+    text-transform: uppercase;
+    margin-left: 20px;
+    font-size: 25px;
+    margin-top: 20px;
+}
+#phone{
+    font-size: 20px;
+    margin-left: 200px;
+    margin-top:40px;
+    color: #4B9AFF;
+
+}
+#numb{
+    color: #4B9AFF;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#what{
+    color: #29C422;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+#etr{
+    margin-left: 20px;
+    margin-top: 20px;
+    color: #4B9AFF;
+}
+#gmail{
+    color:darkcyan;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+#olki{
+    margin-left: 20px;
+    margin-top: 20px;
+    color: #4B9AFF;
+}
+#signin{
+    margin-top: 12px;
+    margin-left: 10px;
+    width: 80px;
+    height: 40px;
+    border-radius: 60px;
+    border: none;
+    color: black;
+    background-repeat: no-repeat;
+    backface-visibility: hidden;
+    
+    
+    
+}
+#signup{
+    margin-top: 12px;
+    margin-left: 40px;
+    width: 80px;
+    height: 40px;
+    border-radius: 60px;
+    border: none;
+    color: black;
+    background-repeat: no-repeat;
+    backface-visibility: hidden;
+    
+    
+}
+#pink{
+    background: #C60CB8;
+    width: 500px;
+    height: 150px;
+    padding: 0px;
+    border: none;
+    margin: 0px;
+    width: 1590px;
+    height: 20px;
+    margin-top: -20px;
+}
+body{background-image: linear-gradient(180deg,  rgba(29, 21, 1),24%, rgba(12, 15, 59, .1 
+    )), url(download.jpg);
+    background-size: cover;
+      background-attachment:fixed;
+    
+    
+}
+.boxes{
+    display: flex;
+    width: 1000px;
+    height: 50px;
+    margin-left: 300px;
+    color: #ffff;
+}
+#d{
+    background: #009EFF;
+    border: 3px solid #324d71;
+    width: 2000px;
+    color: #ffff;
+    font-weight: 600;
+}
+#site{
+    font-size: 20px;
+    color: #ffff;
+    font-weight: 300;
+    margin-top: 200px;
+    margin-left: 190px;
+    font-family: 'Raleway', sans-serif;
+}
+#techno{
+    color: #ffff;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 190px;
+    margin-top: -30px;
+    line-height: 50px;
+    font-family: 'Lato', sans-serif;
+}
+.search{
+    margin-left: 500px;
+}
+input{
+    border: 3px solid #009EFF;
+    border-radius: 50px;
+    width: 400px;
+    height: 40px;
+    margin-top: 30px;
+    box-sizing: border-box;
+}
+#mhyt{
+    border: 5px solid green;
+    color: #ffff;
+    background: green;
+    width: 50px;
+    text-align: center;
+    height: 30px;
+    margin-left: -5px;
+    box-sizing: border-box;
+}
